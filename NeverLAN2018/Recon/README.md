@@ -14,7 +14,7 @@ solve -> riddle: To grow your mental perception and increase your cognizance.  N
 **```flag{dat_ken_though}```**
 
 ### Zesty-200
-1) Research /robots.txt 
+1) Hey yo _robots.txt_
 2) Go to youtube original video
 3) Navigate to the latest comment
 
@@ -32,7 +32,7 @@ solve -> riddle: To grow your mental perception and increase your cognizance.  N
 <img src="https://i.imgur.com/DsyYsCo.png"/>
 
 4. _**```"fence" + "cipher" on Google >> Rail Fence Cipher```**_
-5. Get hands dirty on some decoder tools with "bruteforce" + "keep spaces and special characters"
+5. Get hands dirty on some decoder tools with **"bruteforce" + "keep spaces and special characters"**
 <img src="https://i.imgur.com/Ac5aboH.png"/>
 
 **```flag{you-should-start-a-club-at-your-school...I-did}```**
@@ -43,7 +43,7 @@ solve -> riddle: To grow your mental perception and increase your cognizance.  N
 **```flag{h3ll0_3viLC0rP}```**
 
 ### Make My Day-400
-> s7a73farm live streans more than just the CTF
+> s7a73farm live streams more than just the CTF
 + Crawled all his streams >> **chew.tv** and **mixcloud**
 + Take a hyper-concentration pill when dig into this >> [Link](https://chew.tv/s7a73farm/neverlanctf-registration-party-part-2)
 
