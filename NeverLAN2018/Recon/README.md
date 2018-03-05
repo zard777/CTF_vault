@@ -28,7 +28,7 @@ solve -> riddle: To grow your mental perception and increase your cognizance.  N
 ### BashNinja-200
 1) Check his info from Keybase >> found his Twitter
 2) Crawled his Twitter and found 2 options involved "Security Organization": @SAINTCON || @UVUCyberSec
-3) Crawled @SAINTCON and found it not helpful much then focused in the other option, finally a notable quiz apeared at /officer
+3) Crawled @SAINTCON and found it not helpful much then focused in the other option, finally a notable quiz appeared at /officer
 <img src="https://i.imgur.com/DsyYsCo.png"/>
 
 4. _**```"fence" + "cipher" on Google >> Rail Fence Cipher```**_
