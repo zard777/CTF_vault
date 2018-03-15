@@ -80,7 +80,7 @@ Pass = `new york stock exchange`
 
 **8th pass:**
 
-Question: `Ellingson Mineral Company supercomputer. `
+Quiz: `Ellingson Mineral Company supercomputer. `
 
 Pass = `the gibson` 
 
