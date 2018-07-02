@@ -2,6 +2,7 @@
 
 ### Viking-100
 **```flag{Hackz_All_the_things!!}```**
+p/s: Crawl out all solutions before ask for help, please !! 
 
 ### Neo-200
 **_'View page source' always be my best buddy_**
